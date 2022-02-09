@@ -1,4 +1,5 @@
-# Jason Yeske
+# Code Journal
+## Jason Yeske
 ## CPNT-262 Plugin' Away
 
 ### To DO: Install Chart.js
