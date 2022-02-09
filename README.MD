@@ -34,3 +34,4 @@
 ## Attributions
 
 [W3schools](https://www.w3schools.com/ai/tryit.asp?filename=tryai_chartjs_scatter)
+[Chart.js](https://www.chartjs.org/docs/latest/)
