@@ -23,7 +23,8 @@
     - numbers appearing off the chart
         -  change the min number on the x and y axis to fix (fixed)
 
-- I used the sample code from w3schools
+- I used the sample code from w3schools and they helped me play around with the code as well
+
 
 
 
